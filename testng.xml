@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="1" parallel="classes">
+    <test verbose="2" preserve-order="true" name="/Users/celestica/Documents/GitHub/selenium.crm/pom.xml">
+        <classes>
+            <class name = "com.selenium.demo.base.E2E_Organization_Operations"/>
+            <class name = "com.selenium.demo.base.E2E_Case_Operations"/>
+            <class name = "com.selenium.demo.base.E2E_Task_Operations"/>
+            <class name = "com.selenium.demo.base.E2E_Opportunity_Operations"/>
+        </classes>
+    </test>
+</suite>
