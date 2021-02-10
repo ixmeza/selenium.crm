@@ -14,6 +14,6 @@ Frond End Automated tests using selenium and java bindings for [CRM](https://phy
 - TestNG Listeners
 
 ## Demo
-![Demo-todo-list](/selenium.crm/images/selenium.gif)
+![Demo-crm](/images/selenium.gif)
 
 
